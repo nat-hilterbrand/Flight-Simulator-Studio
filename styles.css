@@ -1,6 +1,17 @@
+
 #shuttleBackground {
     background-color: green;
     display: inline-block;
-    height: 80%;
-    width: 40%;
+    height: 400px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    /* position: relative; 
+    overflow: hidden; */
+}
+
+#rocket {
+    position: absolute;
+    right: 150px;
+    top: 330px;
 }
